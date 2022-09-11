@@ -3,7 +3,7 @@
 ## Short description
 This is the python code used to create machine learning model finding cigarete smoking action on the pictures.
 
-To see full documentation of the project follow [this link](Dokumnetacja projektu.pdf) or open "Dokumnetacja projektu.pdf" file.
+To see full documentation of the project follow [this link](https://github.com/KubKill/Smoking-Detection-ML-Model/blob/main/Dokumentacja%20projektu.pdf) or open "Dokumnetacja projektu.pdf" file.
 
 ## Technologies
 * Pytchon
